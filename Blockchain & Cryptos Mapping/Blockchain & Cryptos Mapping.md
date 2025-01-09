@@ -6,6 +6,6 @@
 ## Estudios
 - [[Conocimiento básico sobre Blockchain]]
 - [[Conocimiento general sobre Blockchain]]
-- Comisiones
+- [[Exchanges & Comisiones 2024]]
 - Billeteras
 - Staging
