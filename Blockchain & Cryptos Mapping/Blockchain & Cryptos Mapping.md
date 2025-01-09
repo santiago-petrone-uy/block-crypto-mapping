@@ -1,11 +1,12 @@
-#plan #organization #kickoff
+#plan #organizacion #kickoff
 ## Herramientas
 - [[AIs]]
 - [[Canales (youtube)]]
-- 
+- ...
 ## Estudios
-- [[Conocimiento básico sobre Blockchain]]
-- [[Conocimiento general sobre Blockchain]]
+- [[Blockchain]]
 - [[Exchanges & Comisiones 2024]]
 - Billeteras
 - Staging
+- ...
+

@@ -17,8 +17,8 @@ Definición de estructura de tarifas Maker o Taker. Los creadores (maker) suelen
 - Aprovechar programas de fidelidad (staking de tokens nativos como CRO en Crypto.com o BNB en Binance).
 - Participar en estructuras de tarifas escalonadas (más volumen = menores costos).
 
-**Comparación de exchanges** (de mejor a peor en términos de tarifas):
-1. **Pinex y Kucoin** (tarifas más bajas, 0.05%).
+**Comparación de exchanges** (tarifas):
+1. **Pionex y Kucoin** (0.05%).
 2. **Crypto.com** (0.075%).
 3. **Binance y Bybit** (0.1%).
 4. **Kraken** (0.16% para spot trading con sistema escalonado).
