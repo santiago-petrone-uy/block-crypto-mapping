@@ -18,27 +18,27 @@
       "query": "#estudio",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 9884511
       }
     },
     {
       "query": "#herramientas",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 116732
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.87947368421053,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.47263157894737,
+  "lineSizeMultiplier": 3.94263157894737,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.9573785003541992,
+  "scale": 2.3727118444203166,
   "close": true
 }

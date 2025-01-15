@@ -8,7 +8,7 @@ Un exchange de criptomonedas es una plataforma donde los usuarios pueden comprar
 - [Los 7 Mejores Exchanges de Criptomonedas para 2024](https://youtu.be/LSmjdNaXsjI?list=TLGGjfYK8o86EtAwOTAxMjAyNQ)
 ## Análisis con NotebookLM + ChatGPT
 
-![[Exchanges-2024.mp3]]
+![[exchanges-2024.mp3]]
 ### Resumen
 Definición de estructura de tarifas Maker o Taker. Los creadores (maker) suelen pagar menos que los que toman órdenes existentes (taker).
 

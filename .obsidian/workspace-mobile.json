@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudio/Estratégia de salida 2025.md",
+                "file": "Blockchain & Cryptos Mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estratégia de salida 2025"
+              "title": "Blockchain & Cryptos Mapping"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Estudio/Estratégia de salida 2025.md",
+            "file": "Blockchain & Cryptos Mapping.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,8 +149,8 @@
   },
   "active": "e807bbe5d94849d8",
   "lastOpenFiles": [
-    "Blockchain & Cryptos Mapping.md",
     "Estudio/Estratégia de salida 2025.md",
+    "Blockchain & Cryptos Mapping.md",
     "Estudio/Exchanges & Comisiones 2024.md",
     "Estudio/Blockchain.md"
   ]

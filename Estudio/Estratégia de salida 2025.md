@@ -9,7 +9,7 @@ El mercado de criptomonedas sigue un ciclo de cuatro años impulsado por el halv
 - [I’ll Be Leaving Crypto in 2025](https://youtu.be/m8wvCwnI_Qk)
 ## Análisis con NotebookLM + ChatGPT
 
-![[Salida-2025.mp3]]
+![[salida-2025.mp3]]
 ### Resumen
 La estrategia ideal es equilibrada, comienza a tomar ganancias en marzo de 2025, diversifica con altcoins prometedoras y ajusta tus decisiones según el mercado. Prioriza tus metas financieras y evita decisiones emocionales para maximizar ganancias mientras reduces riesgos.
 #### Principios Generales
