@@ -7,4 +7,5 @@
 - https://www.youtube.com/@CoinBureauES
 - https://www.youtube.com/@jackmallers9929
 - https://www.youtube.com/@EmprendoLibre
-- 
+- https://www.youtube.com/@JovenInversor
+- https://www.youtube.com/@PrestonPysh

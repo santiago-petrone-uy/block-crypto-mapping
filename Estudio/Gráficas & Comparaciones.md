@@ -15,3 +15,9 @@
 ![[bear-bull-seasons.png]]
 
 ![[bitcoin-monthly-price-rsi.png]]
+
+![[alt-coins-market-cap-post-halvin.jpeg]]
+
+![[ath, etf-approval, halving, election, inauguration.png]]
+
+![[bitcoin-yearly-candles.png]]

@@ -9,4 +9,5 @@
 - Billeteras
 - Staging
 - [[Estratégia de salida 2025]]
-- Gráficas & Comparaciones
+- [[Gráficas & Comparaciones]]
+- ...

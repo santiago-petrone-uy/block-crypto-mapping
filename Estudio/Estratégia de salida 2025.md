@@ -1,6 +1,6 @@
 #estudio #salida #bullrun2025 
 
-El mercado de criptomonedas sigue un ciclo de cuatro años impulsado por el halving de Bitcoin, con picos proyectados para finales de 2025 (Bitcoin en octubre y altcoins en noviembre/diciembre). Para maximizar ganancias, establece metas realistas, toma beneficios gradualmente (especialmente en marzo) y rota entre Bitcoin y altcoins según el mercado. Prioriza estrategias como staking, evitar monedas meme a largo plazo y enfocarte en sectores prometedores como IA, gaming y NFTs. Mantén la seguridad como prioridad, evita la avaricia y sal del mercado antes de que colapse. Recuerda que la volatilidad es alta y es crucial investigar antes de invertir.
+El mercado de criptomonedas sigue un ciclo de cuatro años impulsado por el halving de Bitcoin, con picos proyectados para finales de 2025 (Bitcoin en octubre y altcoins en noviembre/diciembre). Para maximizar ganancias, establece metas realistas, toma beneficios gradualmente (especialmente en marzo) y rota entre Bitcoin y altcoins según el mercado. Prioriza estrategias como staking, evita monedas meme a largo plazo y enfocate en sectores prometedores. Mantén la seguridad como prioridad, evita la avaricia y sal del mercado antes de que colapse. Recuerda que la volatilidad es alta y es crucial investigar antes de invertir.
 ## Fuentes de análisis
 - [7 Crypto Predictions for the 2025 Bull Run](https://www.youtube.com/watch?v=baAz85vlkBE&t=506s)
 - [Crypto Exit Strategy 2025 Bull Market - When To Sell!](https://www.youtube.com/watch?v=2BTrEk0JU4g&t=1s)
